@@ -1,0 +1,10 @@
+# Binaries
+/gormtables
+*.exe
+
+# Test artifacts
+*.test
+coverage.out
+
+# macOS
+.DS_Store
